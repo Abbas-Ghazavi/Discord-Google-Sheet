@@ -45,6 +45,26 @@ Executing this command will display the stored information in a paginated format
 
 https://github.com/Abbas-Ghazavi/SheetBot/assets/118556497/e5044dba-0749-49aa-97d7-fdd7fadadf03
 
+#
+## Deleting Entries (/delete Command)
+
+Using these commands, users can efficiently manage and update the information stored in the Google Sheets.
+
+``` /delete message_id ```
+
+
+https://github.com/Abbas-Ghazavi/SheetBot/assets/118556497/928d85d8-3dd2-41aa-857a-544c4f3c128f
+
+#
+
+## Editing Entries (/edit Command)
+
+The `/edit` command allows users to modify existing entries in the Google Sheets. Users need to specify the message ID of the entry they want to edit, followed by the new text. Once executed, the bot will locate the entry with the provided message ID in the Google Sheets and update it with the new text. This command is useful for users who need to make corrections or updates to their previously submitted information.
+
+``` /edit essage_id replace text ```
+
+
+
 
 
 
