@@ -63,9 +63,21 @@ The `/edit` command allows users to modify existing entries in the Google Sheets
 
 ``` /edit essage_id replace text ```
 
+https://github.com/Abbas-Ghazavi/SheetBot/assets/118556497/cecd14f2-ec97-40c2-8c41-04b8548ebfb8
+
+#
+## Searching Data (/search Command)
+
+The /search command enables users to search for specific information within the Google Sheets based on a query. This command retrieves matching entries and displays them in a paginated format, making it easy for users to find relevant information.
 
 
 
+``` /search query ```
+
+
+
+https://github.com/Abbas-Ghazavi/SheetBot/assets/118556497/027c94c3-4476-47a4-b8e9-cdc09651afd5
+#
 
 
 
