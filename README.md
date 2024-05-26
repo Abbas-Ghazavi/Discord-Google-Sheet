@@ -1,4 +1,3 @@
-
 # Discord Bot SheetBot Project
 
 ## Description
