@@ -1,6 +1,7 @@
 # Discord Bot SheetBot Project
 
 
+
 ## Description
 
 This project consists of a Discord bot utilizing libraries such as `nextcord`, `gspread`, and `persiantools` to provide functionalities for managing information in Google Sheets. Please note that the original code is kept in a private repository, and this repository is for demonstration purposes only.
